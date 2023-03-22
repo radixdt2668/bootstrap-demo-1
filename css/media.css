@@ -1,0 +1,154 @@
+@media  (min-width: 576px) {
+    .fs-20{
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .fs-48{
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .fs-18{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .fs-40{
+        font-size: 30px;
+        line-height: 47px;
+    }
+    .fs-36{
+        font-size: 24px;
+        line-height: 42px;
+    }
+    .fs-28{
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .fs-24{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .card-section .col-12{
+        width: calc(50% - 12px);
+    }
+    
+}
+@media  (min-width: 768px) {
+    .fs-20{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .fs-48{
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .fs-18{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .fs-40{
+        font-size: 35px;
+        line-height: 47px;
+    }
+    .fs-36{
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .fs-28{
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .fs-24{
+        font-size: 22px;
+        line-height: 30px;
+    }
+    
+    
+}
+@media  (min-width: 992px) {
+    .fs-20{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .fs-48{
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .fs-18{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .fs-40{
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .fs-36{
+        font-size: 33px;
+        line-height: 42px;
+    }
+    .fs-28{
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .fs-24{
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .card-section .col-12{
+        width: calc(33.33% - 12px);
+    }
+
+    
+}
+@media  (min-width: 1200px) {
+    .fs-20{
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .fs-48{
+        font-size: 48px;
+        line-height: 55px;
+    }
+    .fs-18{
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .fs-40{
+        font-size: 40px;
+        line-height: 47px;
+    }
+    .fs-36{
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .fs-28{
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .fs-24{
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .tab-section .form-control{
+        display: unset;
+        width: 65%;
+        border: none;
+        background-color: rgba(218, 223, 229, 0.3);
+        color: #6C757D;
+        font-size: 18px;
+    }
+    label{
+        width: 25%;
+    }
+    .tab-section{
+        max-width: 1300px;
+        padding: 99px 83px;    
+}
+.card-box{
+    padding: 67px 90px 67px 50px;
+    border: 1px solid #DEEBFF;
+}
+}
+@media  (min-width: 1400px) {
+
+    
+}
